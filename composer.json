@@ -1,5 +1,5 @@
 {
-    "name": "olostech/amqp",
+    "name": "hyperf/amqp",
     "description": "A amqplib for hyperf.",
     "type": "library",
     "license": "MIT",
