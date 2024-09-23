@@ -1,6 +1,7 @@
 {
-    "name": "hyperf/amqp",
+    "name": "olostech/amqp",
     "description": "A amqplib for hyperf.",
+    "type": "library",
     "license": "MIT",
     "keywords": [
         "php",
